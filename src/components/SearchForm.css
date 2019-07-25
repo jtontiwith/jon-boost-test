@@ -1,0 +1,30 @@
+.search-form {
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.search-input {
+  background: #FAFAFA;
+  padding: 8px;
+  border-radius: 2px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; 
+  border: none;
+  font-size: 16px;
+  vertical-align: top;
+}
+
+.button {
+  margin-left: 5px;
+  height: 35px;
+  padding: 8px 16px;
+  border: none;
+  vertical-align: top;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 4px 6px -6px #222;
+  -moz-box-shadow: 0 4px 6px -6px #222;
+  box-shadow: 0 4px 6px -6px #222;
+  cursor: pointer;
+}
+
